@@ -18,6 +18,7 @@ public class suma {
 		suma=num1+num2;
 		
 		System.out.println("El resultado es: "+ suma);
+		System.out.println("Nueva línea.");
 
 	}
 
